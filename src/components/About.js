@@ -37,7 +37,7 @@ function About() {
                 </h2>
                 <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                 <div className="accordion-body">
-                    Using textutils user can easily convert his/her text to lowerCase , upperCase.user can also also copy that text to clipboard and also trim the paragraph which means removes extra spaces. 
+                    Using textutils user can easily convert his/her text to lowerCase , upperCase.user can also copy that text to clipboard and also trim the paragraph which means removes extra spaces. 
                 </div>
                 </div>
             </div>
